@@ -1,3 +1,7 @@
+
+
+
+
 ##  Variational Filtering
 
 To run phi learning on linear gaussian (Fig1a)
@@ -22,3 +26,6 @@ python dmlab.py
     - hydra (for hyperparameter config) https://github.com/facebookresearch/hydra
     - scipy
     - tqdm
+    
+# Sequential VAE demo video
+https://user-images.githubusercontent.com/85300820/120666806-ca147e80-c484-11eb-8237-5dfc5083de47.mp4
